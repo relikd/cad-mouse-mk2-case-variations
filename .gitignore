@@ -1,0 +1,2 @@
+# ignore FreeCAD backup files
+*.FCBak
