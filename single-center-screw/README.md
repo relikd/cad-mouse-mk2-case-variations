@@ -6,6 +6,9 @@ Based on: `original` + `print-improvements`
 
 Re-designed to assemble all parts with a single center screw (M5) while maximizing bottom volume for weights.
 
+![](./screenshots/bottom-separator.png)
+![](./screenshots/diffuser-stem-spring-nut.png)
+
 
 ### Changes
 
@@ -17,13 +20,13 @@ Re-designed to assemble all parts with a single center screw (M5) while maximizi
   All models have `VarSet` variables.
 
 
-### PCB variants
+#### PCB variants
 
 - Original (PCB design by [sb-ocr](https://github.com/sb-ocr/cad-mouse-mk2), the original release)
 - Nikki (PCB design by [sheffieldnikki](https://github.com/sb-ocr/cad-mouse-mk2/issues/24), community variant, mounting the MCU directly onto the sensors board)
 
 
-### Re-used parts
+#### Re-used parts
 
 - from `print-improvements`:
 	- `knob`
