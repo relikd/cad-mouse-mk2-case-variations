@@ -6,8 +6,8 @@ Based on: `original` + `print-improvements`
 
 Re-designed to assemble all parts with a single center screw (M5) while maximizing bottom volume for weights.
 
-![](./screenshots/bottom-separator.png)
-![](./screenshots/diffuser-stem-spring-nut.png)
+![bottom and separator](./screenshots/bottom-separator.png)
+![stacked parts: diffuser, stem, spring, nut-cage](./screenshots/diffuser-stem-spring-nut.png)
 
 
 ### Changes

@@ -1,2 +1,3 @@
 # ignore FreeCAD backup files
 *.FCBak
+__pycache__
