@@ -42,6 +42,12 @@ Re-designed to assemble all parts with a single center screw (M5) while maximizi
   All other parts have bridges for overhangs and should print without supports.
 
 
+### Steel plate weight
+
+Use `template-bottom-weight.dxf`, if you want to cut the weights from a steel plate.
+The maximum possible height is 12.2mm - you can cut 3x 4mm plates or 2x 5mm.
+
+
 ### Bill of materials
 
 Some screws have a range of possible lengths - just so you can re-use some scrap screws laying around.
