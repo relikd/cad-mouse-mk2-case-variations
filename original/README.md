@@ -2,6 +2,8 @@ License: CC-BY-NC-SA 4.0
 
 The files in this folder were created by relikd.
 
+The files in the STEP folder were extracted - without modification - from the original design.
+
 The original design is by [Salim Benbouziyane](https://github.com/sb-ocr/cad-mouse-mk2).
 
 ### Notes
