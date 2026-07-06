@@ -1,6 +1,6 @@
 Author: relikd
 
-Based on: `original` or `single-center-screw`
+Based on: `original`
 
 ---
 
