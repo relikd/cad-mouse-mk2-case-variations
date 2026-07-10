@@ -14,8 +14,7 @@ Re-designed to assemble all parts with a single center screw (M5) while maximizi
 
 - All heights are calculated from sensors board + MCU dimensions.
   This assures a minimal possible height and allows customizations for custom PCB designs.
-- The `Bottom` is fixed with self-tapping screws (no heat-set inserts needed, just regular 3mm).
-- The `Top` can be fixed with either heat-set inserts (M3) or self-tapping screws (3mm) – choose the STL accordingly.
+- The `Top` and `Bottom` are fixed with self-tapping screws (no heat-set inserts needed, just regular 3mm).
 - The model files `Top`, `Button`, and `Diffuser` have variant options (screw type and PCB variants (see below).
   All models have `VarSet` variables.
 
@@ -50,32 +49,24 @@ The maximum possible height is 12.2mm - you can cut 3x 4mm plates or 2x 5mm.
 
 ### Bill of materials
 
-Some screws have a range of possible lengths - just so you can re-use some scrap screws laying around.
-In most cases, the head type doesn't matter either.
-If you use another head type for the `Knob`, you'll need to update the variables to fit another screw head height.
+I've included a range of possible screw lengths, just so you can re-use some scrap screws laying around.
 
 - 6x Magnets 6mm x 3mm (same as original)
 - 1x M5 x 40, Hexagon Socket Head Cap Screw
 - 1x M5 nut
-- 3x M3 x 12 (`Knob`)
+- 3x M3 x 10-12mm (`Knob`)
 - 3x M3 Heat-Set Inserts 4mm (`Knob`)
-- 4x 3mm Self-Tapping Screw, 5-12mm long, sink head or another flat head with a low profile (<2mm)
+- 4x M3 x 5-12mm (or Self-Tapping screws), sink head or another flat head with a low profile (<2mm)
   (connects `Separator` to `Bottom` and *may* collide with `Top` if head sticks out too much)
-- 4x 3mm Self-Tapping Screw, 4-7mm long, any flat head type will do (connects PCB to `Top`)
+- 4x M3 x 4-7mm  (or Self-Tapping screws), any flat head type will do (connects PCB to `Top`)
 
-__Alternatively__, replace the 4 `Top` screws with:
-- 4x M3 x 4 (OR: M3 x 6), any head type will do
-- 4x M3 Heat-Set Inserts 4mm
+Self-tapping screws are fine, because you won't need to open these parts very often (if ever).
+Even if you do, a few screwing - unscrewing cycles should be fine.
 
-The self-tapping screws for `Top` and `Bottom` are fine, because you won't need to open these parts very often (if ever).
-Even a few screwing - unscrewing cycles should be fine.
+Instead of self-tapping screws, you can use M3 screws *without* heat-set inserts, they will hold fine as well.
+I still recommend heat-set inserts for the `Knob` as you might need to replace the `Spring` regularly.
 
-Further, you could use M3 screws *without* heat-set inserts.
-They will hold fine as well.
-Though, I would still recommend inserts for the `Knob` as you might need to replace the `Spring` regularly.
-
-Finally, you should adapt your hole size variable – there is no standardized size for the heat-set inserts.
-Therefore, the provided STL (4.2mm) may not work properly in your case.
+If you use heat-sets for the top, you should adapt your hole size variable (e.g., 4.4mm).
 
 
 ### Assembly
