@@ -1,10 +1,23 @@
 License: CC-BY-NC-SA 4.0
 
-The files in this folder were created by relikd.
+The FreeCAD and STL files in this folder were created by relikd.
 
 The files in the STEP folder were extracted - without modification - from the original design.
 
-The original design is by [Salim Benbouziyane](https://github.com/sb-ocr/cad-mouse-mk2).
+Original design by [Salim Benbouziyane](https://github.com/sb-ocr/cad-mouse-mk2).
+
+
+### Improvements
+
+- fix counterbore overhangs with bridging (`Bottom Shell`, `Bottom Lid`).
+- replace overhang fillets (z-axis) with 45° chamfers (`Knob`, `Bottom Shell`, `Bottom Lid`, `Button`).
+
+
+#### Additional parts
+
+- `spring` (any `OG_CN_` will do)
+- Optional: use `magnet-holder-v2` (with a `OG_CF_` spring)
+
 
 ### Notes
 

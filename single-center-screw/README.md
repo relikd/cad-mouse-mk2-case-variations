@@ -25,12 +25,11 @@ Re-designed to assemble all parts with a single center screw (M5) while maximizi
 - Nikki (PCB design by [sheffieldnikki](https://github.com/sb-ocr/cad-mouse-mk2/issues/24), community variant, mounting the MCU directly onto the sensors board)
 
 
-#### Re-used parts
+#### Additional parts
 
-- from `print-improvements`:
-	- `knob`
-- from `original`:
-	- `magnet-holder`
+- `Knob` (from `original`)
+- `magnet-holder-v2`
+- `spring` (any `SCS_CF_` will do)
 
 
 ### Print settings
