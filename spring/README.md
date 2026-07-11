@@ -81,8 +81,3 @@ See the `attempts/batch-1` folder how miniscule the changes are (v11 - v18).
   Add extra clearance to avoid rasping.
 - Always try with the software in a test-scene.
   I had countless spring designs which felt good in a dry run (just the hardware haptics) but did not match my expectations when used in real software.
-
-
-### Batch export
-
-The Makefile is just a wrapper around `freecad -c export.py`
