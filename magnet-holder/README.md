@@ -10,7 +10,7 @@ Magnets Holder
 
 ## Magnets Holder v2
 
-![new magnets holder](screenshots/holder.png)
+![magnets holder v2](screenshots/v2.png)
 
 => requires a spring with `_CF_` in name.
 
@@ -24,7 +24,7 @@ To replace your existing `magnets-holder`, you only need a new `spring`.
 In the original spring, the center holes are pointing in the same direction as the holes on the outside ring.
 For this `magnets-holder-v2`, they need to point in the opposite direction:
 
-![spring changes](screenshots/spring-changes.png)
+![spring changes for v2](screenshots/v2-spring-changes.png)
 
 __Note:__ The magnets require a press-fit.
 If they fall out, adjust the magnets-diameter variable.
