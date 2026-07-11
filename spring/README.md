@@ -44,6 +44,18 @@ Mount them together, such that one side is flipped upside-down.
 Same as the `Stacked` variant above but in a single design.
 Careful with the height: because this variant uses twice the amount of springs, a 2mm spring will be nearly as stiff as the 4mm `Original` spring.
 
+## Seventeen
+
+![seventeen](screenshots/spring-seventeen.png)
+
+Translation in XY is still not perfect but it strikes a good balance in all DoF.
+A height of 3mm seems best so far.
+
+The design batch which led to most of the insights in [Tips for experimenting](#tips-for-experimenting).
+(large arcs near center, outer ring anchor points at 60° intervals, XY movements, etc.).
+
+See the `attempts/batch-1` folder how miniscule the changes are (v11 - v18).
+
 
 ## Tips for experimenting
 
@@ -62,6 +74,8 @@ Careful with the height: because this variant uses twice the amount of springs, 
   This way, the spring is balanced equally in all four directions.
 - Pay attention to spring direction.
   If all springs point in the same direction (like in the original design), rotation around the Z-axis will be easier in one direction than the other.
+- The spring is deformed more at the center than at the edges.
+  Therefore the center part should be the most flexible (larger arcs).
 - When you find a good design, try the extremes.
   Rotate into corners where the spring may collide onto itself or onto the `Knob`.
   Add extra clearance to avoid rasping.
