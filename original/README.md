@@ -15,8 +15,8 @@ Original design by [Salim Benbouziyane](https://github.com/sb-ocr/cad-mouse-mk2)
 
 #### Additional parts
 
-- `spring` (any `OG_CN_` will do)
-- Optional: use `magnet-holder-v2` (with a `OG_CF_` spring)
+- `magnet-holder`
+- `spring`
 
 
 ### Notes

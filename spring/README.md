@@ -5,8 +5,8 @@ All springs come with a default height of 4mm.
 If you want a thinner spring, use your slicer to cut down the height (use the scaling feature and click the padlock to scale height independent of width and length).
 
 All designs come with variants for:
-- Stem type (`original` three screws, `single-center-screw` triangle hole)
-- Stem hole orientation (`flipped` for `Magnets-Holder-v2`, or unflipped)
+- Stem type (`original`/`OG` three screws, `single-center-screw`/`SCS` triangle hole)
+- Stem hole orientation (`CF`: flipped for `magnet-holder-v2`, `CN` original orientation `magnet-holder-original`)
 
 See [Tips for experimenting](#tips-for-experimenting) at the end of this readme.
 

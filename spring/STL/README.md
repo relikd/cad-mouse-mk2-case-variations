@@ -5,5 +5,5 @@ VARIANT:
 - SCS: `Single-Center-Screw` (triangle center hole)
 
 FLIPPED:
-- CN: `non-flipped` (original orientation. Center holes point to magnets)
-- CF: `flipped` (center hole upside-down. Holes point between magnets)
+- CN: `non-flipped` (original orientation. Center holes point to magnets. `magnet-holder-original`)
+- CF: `flipped` (center hole upside-down. Holes point between magnets. `magnet-holder-v2`)

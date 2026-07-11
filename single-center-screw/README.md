@@ -28,8 +28,8 @@ Re-designed to assemble all parts with a single center screw (M5) while maximizi
 #### Additional parts
 
 - `Knob` (from `original`)
-- `magnet-holder-v2`
-- `spring` (any `SCS_CF_` will do)
+- `magnet-holder`
+- `spring`
 
 
 ### Print settings
