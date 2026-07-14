@@ -49,7 +49,7 @@ Careful with the height: because this variant uses twice the amount of springs, 
 ![seventeen](screenshots/spring-seventeen.png)
 
 Translation in XY is still not perfect but it strikes a good balance in all DoF.
-A height of 2–3mm seems best so far.
+A height of 2.5mm seems best so far.
 
 The design batch which led to most of the insights in [Tips for experimenting](#tips-for-experimenting).
 (large arcs near center, outer ring anchor points at 60° intervals, XY movements, etc.).
